@@ -10,6 +10,7 @@ public class RediffHomePage {
 	
 	public RediffHomePage(WebDriver driver) {
 		this.driver = driver;
+		System.out.println("testing");
 	}
 	
 	By home = By.linkText("Home");
