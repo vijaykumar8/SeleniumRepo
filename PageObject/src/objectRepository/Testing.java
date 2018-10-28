@@ -8,6 +8,8 @@ public class Testing {
 		System.out.println("testingnngkgk");
 		System.out.println("testingnnkgk");
 		System.out.println("ttt");
+		System.out.println("new");
+
 	}
 	
 
